@@ -73,7 +73,7 @@ This algorithm ensures smooth line drawing by only rendering lines when the fing
 3. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/AirSketch.git
-   cd air-canvas
+   cd Air_Sketch
    ```
 
 ## Usage 📋
@@ -81,7 +81,7 @@ This algorithm ensures smooth line drawing by only rendering lines when the fing
 Run the application:
 
 ```bash
-python air_canvas.py
+python Air_Sketch.py
 ```
 
 - Use your index finger to draw in the air. ✍️
