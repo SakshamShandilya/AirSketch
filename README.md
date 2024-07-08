@@ -3,7 +3,7 @@
 ## Overview 📖
 
 AirSketch is an advanced computer vision application that enables users to draw in the air using hand gestures. It utilizes real-time hand tracking and gesture recognition to create a virtual drawing canvas. This project demonstrates the integration of computer vision techniques, gesture recognition algorithms, and real-time video processing.
-
+![IMG_1689](https://github.com/SakshamShandilya/AirSketch/assets/90836873/1f62c04d-2c1a-4d3f-8c25-fc1b94b93ed8)
 ## Technical Stack 🛠️
 
 - **Python 3.7+**: Core programming language 🐍
